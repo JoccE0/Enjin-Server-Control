@@ -1,7 +1,7 @@
 <html>
 <?php include 'head.php' ?>
 <script src="./js/jquery.logviewer.js"></script>
-<script src="./js/server1/log.js"></script>
+<script src="./js/server1/log1.js"></script>
 </head>
 <body>
 
