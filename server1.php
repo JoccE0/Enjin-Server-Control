@@ -49,7 +49,7 @@ function jailPlayer($api, $serverid) {
 
     $username = $_POST['playername'];
     
-    $api->sendConsoleCommand($serverid, "tell ".$username." jail");
+    $api->sendConsoleCommand($serverid, "jail ".$username." jail");
     
     return $username;
 
